@@ -6,6 +6,8 @@
   "cHeroId": "Sylvanas",
   "cUnitId": "HeroSylvanas",
   "name": "Sylvanas",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "sylvanas.png",
   "role": "Specialist",
   "expandedRole": "Ranged Assassin",

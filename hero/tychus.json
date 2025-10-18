@@ -6,6 +6,8 @@
   "cHeroId": "Tychus",
   "cUnitId": "HeroTychus",
   "name": "Tychus",
+  "universe": "StarCraft",
+  "difficulty": "Easy",
   "icon": "tychus.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

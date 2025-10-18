@@ -6,6 +6,8 @@
   "cHeroId": "Malfurion",
   "cUnitId": "HeroMalfurion",
   "name": "Malfurion",
+  "universe": "Warcraft",
+  "difficulty": "Easy",
   "icon": "malfurion.png",
   "role": "Support",
   "expandedRole": "Healer",

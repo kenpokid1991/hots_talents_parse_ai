@@ -6,6 +6,8 @@
   "cHeroId": "Jaina",
   "cUnitId": "HeroJaina",
   "name": "Jaina",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "jaina.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

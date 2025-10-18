@@ -6,6 +6,8 @@
   "cHeroId": "Abathur",
   "cUnitId": "HeroAbathur",
   "name": "Abathur",
+  "universe": "StarCraft",
+  "difficulty": "Very Hard",
   "icon": "abathur.png",
   "role": "Specialist",
   "expandedRole": "Support",

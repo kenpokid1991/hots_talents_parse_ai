@@ -6,6 +6,8 @@
   "cHeroId": "Cho",
   "cUnitId": "HeroCho",
   "name": "Cho",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "chogall.png",
   "role": "Warrior",
   "expandedRole": "Tank",

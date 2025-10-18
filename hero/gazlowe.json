@@ -6,6 +6,8 @@
   "cHeroId": "Tinker",
   "cUnitId": "HeroTinker",
   "name": "Gazlowe",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "gazlowe.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

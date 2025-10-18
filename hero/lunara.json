@@ -6,6 +6,8 @@
   "cHeroId": "Dryad",
   "cUnitId": "HeroDryad",
   "name": "Lunara",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "lunara.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

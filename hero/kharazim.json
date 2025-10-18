@@ -6,6 +6,8 @@
   "cHeroId": "Monk",
   "cUnitId": "HeroMonk",
   "name": "Kharazim",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "kharazim.png",
   "role": "Support",
   "expandedRole": "Healer",

@@ -6,6 +6,8 @@
   "cHeroId": "Probius",
   "cUnitId": "HeroProbius",
   "name": "Probius",
+  "universe": "StarCraft",
+  "difficulty": "Hard",
   "icon": "probius.png",
   "role": "Specialist",
   "expandedRole": "Ranged Assassin",

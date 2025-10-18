@@ -6,6 +6,8 @@
   "cHeroId": "Genji",
   "cUnitId": "HeroGenji",
   "name": "Genji",
+  "universe": "Overwatch",
+  "difficulty": "Hard",
   "icon": "genji.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

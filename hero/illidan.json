@@ -6,6 +6,8 @@
   "cHeroId": "Illidan",
   "cUnitId": "HeroIllidan",
   "name": "Illidan",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "illidan.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

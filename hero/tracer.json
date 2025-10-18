@@ -6,6 +6,8 @@
   "cHeroId": "Tracer",
   "cUnitId": "HeroTracer",
   "name": "Tracer",
+  "universe": "Overwatch",
+  "difficulty": "Hard",
   "icon": "tracer.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

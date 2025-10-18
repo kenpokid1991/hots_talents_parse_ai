@@ -6,6 +6,8 @@
   "cHeroId": "Butcher",
   "cUnitId": "HeroButcher",
   "name": "The Butcher",
+  "universe": "Diablo",
+  "difficulty": "Easy",
   "icon": "thebutcher.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

@@ -6,6 +6,8 @@
   "cHeroId": "Orphea",
   "cUnitId": "HeroOrphea",
   "name": "Orphea",
+  "universe": "Nexus",
+  "difficulty": "Medium",
   "icon": "orphea.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

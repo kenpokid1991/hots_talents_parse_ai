@@ -6,6 +6,8 @@
   "cHeroId": "Imperius",
   "cUnitId": "HeroImperius",
   "name": "Imperius",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "imperius.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

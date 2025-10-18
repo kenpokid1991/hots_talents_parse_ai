@@ -6,6 +6,8 @@
   "cHeroId": "Zagara",
   "cUnitId": "HeroZagara",
   "name": "Zagara",
+  "universe": "StarCraft",
+  "difficulty": "Medium",
   "icon": "zagara.png",
   "role": "Specialist",
   "expandedRole": "Ranged Assassin",

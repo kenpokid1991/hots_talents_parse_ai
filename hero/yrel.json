@@ -6,6 +6,8 @@
   "cHeroId": "Yrel",
   "cUnitId": "HeroYrel",
   "name": "Yrel",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "yrel.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

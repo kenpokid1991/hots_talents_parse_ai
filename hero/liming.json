@@ -6,6 +6,8 @@
   "cHeroId": "Wizard",
   "cUnitId": "HeroWizard",
   "name": "Li-Ming",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "liming.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

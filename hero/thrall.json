@@ -6,6 +6,8 @@
   "cHeroId": "Thrall",
   "cUnitId": "HeroThrall",
   "name": "Thrall",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "thrall.png",
   "role": "Assassin",
   "expandedRole": "Bruiser",

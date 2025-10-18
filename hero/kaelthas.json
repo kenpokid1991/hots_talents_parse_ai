@@ -6,6 +6,8 @@
   "cHeroId": "Kaelthas",
   "cUnitId": "HeroKaelthas",
   "name": "Kael'thas",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "kaelthas.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

@@ -6,6 +6,8 @@
   "cHeroId": "LostVikings",
   "cUnitId": "HeroLostVikingsController",
   "name": "The Lost Vikings",
+  "universe": "Lost Vikings",
+  "difficulty": "Very Hard",
   "icon": "lostvikings.png",
   "role": "Specialist",
   "expandedRole": "Support",

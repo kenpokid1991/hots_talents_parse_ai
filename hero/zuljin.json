@@ -6,6 +6,8 @@
   "cHeroId": "Zuljin",
   "cUnitId": "HeroZuljin",
   "name": "Zul'jin",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "zuljin.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

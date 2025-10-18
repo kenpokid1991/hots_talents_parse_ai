@@ -6,6 +6,8 @@
   "cHeroId": "Barbarian",
   "cUnitId": "HeroBarbarian",
   "name": "Sonya",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "sonya.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

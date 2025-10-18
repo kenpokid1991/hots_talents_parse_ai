@@ -6,6 +6,8 @@
   "cHeroId": "Zeratul",
   "cUnitId": "HeroZeratul",
   "name": "Zeratul",
+  "universe": "StarCraft",
+  "difficulty": "Hard",
   "icon": "zeratul.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

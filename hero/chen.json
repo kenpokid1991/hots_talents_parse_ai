@@ -6,6 +6,8 @@
   "cHeroId": "Chen",
   "cUnitId": "HeroChen",
   "name": "Chen",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "chen.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

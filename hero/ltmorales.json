@@ -6,6 +6,8 @@
   "cHeroId": "Medic",
   "cUnitId": "HeroMedic",
   "name": "Lt. Morales",
+  "universe": "StarCraft",
+  "difficulty": "Easy",
   "icon": "ltmorales.png",
   "role": "Support",
   "expandedRole": "Healer",

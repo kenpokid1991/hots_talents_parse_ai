@@ -6,6 +6,8 @@
   "cHeroId": "Anduin",
   "cUnitId": "HeroAnduin",
   "name": "Anduin",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "anduin.png",
   "role": "Support",
   "expandedRole": "Healer",

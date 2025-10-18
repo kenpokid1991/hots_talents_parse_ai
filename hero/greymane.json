@@ -6,6 +6,8 @@
   "cHeroId": "Greymane",
   "cUnitId": "HeroGreymane",
   "name": "Greymane",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "greymane.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

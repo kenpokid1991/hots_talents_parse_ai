@@ -6,6 +6,8 @@
   "cHeroId": "Lucio",
   "cUnitId": "HeroLucio",
   "name": "Lúcio",
+  "universe": "Overwatch",
+  "difficulty": "Easy",
   "icon": "lucio.png",
   "role": "Support",
   "expandedRole": "Healer",

@@ -6,6 +6,8 @@
   "cHeroId": "Stitches",
   "cUnitId": "HeroStitches",
   "name": "Stitches",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "stitches.png",
   "role": "Warrior",
   "expandedRole": "Tank",

@@ -6,6 +6,8 @@
   "cHeroId": "Artanis",
   "cUnitId": "HeroArtanis",
   "name": "Artanis",
+  "universe": "StarCraft",
+  "difficulty": "Medium",
   "icon": "artanis.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

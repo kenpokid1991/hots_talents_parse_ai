@@ -6,6 +6,8 @@
   "cHeroId": "Necromancer",
   "cUnitId": "HeroNecromancer",
   "name": "Xul",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "xul.png",
   "role": "Specialist",
   "expandedRole": "Bruiser",

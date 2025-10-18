@@ -6,6 +6,8 @@
   "cHeroId": "Hogger",
   "cUnitId": "HeroHogger",
   "name": "Hogger",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "hogger.png",
   "role": "Assassin",
   "expandedRole": "Bruiser",

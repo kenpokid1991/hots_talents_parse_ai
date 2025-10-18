@@ -6,6 +6,8 @@
   "cHeroId": "Auriel",
   "cUnitId": "HeroAuriel",
   "name": "Auriel",
+  "universe": "Diablo",
+  "difficulty": "Hard",
   "icon": "auriel.png",
   "role": "Support",
   "expandedRole": "Healer",

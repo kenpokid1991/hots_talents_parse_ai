@@ -6,6 +6,8 @@
   "cHeroId": "Diablo",
   "cUnitId": "HeroDiablo",
   "name": "Diablo",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "diablo.png",
   "role": "Warrior",
   "expandedRole": "Tank",

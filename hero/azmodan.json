@@ -6,6 +6,8 @@
   "cHeroId": "Azmodan",
   "cUnitId": "HeroAzmodan",
   "name": "Azmodan",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "azmodan.png",
   "role": "Specialist",
   "expandedRole": "Ranged Assassin",

@@ -6,6 +6,8 @@
   "cHeroId": "Alexstrasza",
   "cUnitId": "HeroAlexstrasza",
   "name": "Alexstrasza",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "alexstrasza.png",
   "role": "Support",
   "expandedRole": "Healer",

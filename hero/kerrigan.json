@@ -6,6 +6,8 @@
   "cHeroId": "Kerrigan",
   "cUnitId": "HeroKerrigan",
   "name": "Kerrigan",
+  "universe": "StarCraft",
+  "difficulty": "Medium",
   "icon": "kerrigan.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

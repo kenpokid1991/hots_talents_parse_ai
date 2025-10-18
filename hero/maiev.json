@@ -6,6 +6,8 @@
   "cHeroId": "Maiev",
   "cUnitId": "HeroMaiev",
   "name": "Maiev",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "maiev.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

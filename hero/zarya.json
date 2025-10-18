@@ -6,6 +6,8 @@
   "cHeroId": "Zarya",
   "cUnitId": "HeroZarya",
   "name": "Zarya",
+  "universe": "Overwatch",
+  "difficulty": "Hard",
   "icon": "zarya.png",
   "role": "Warrior",
   "expandedRole": "Support",

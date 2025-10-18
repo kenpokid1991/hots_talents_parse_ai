@@ -6,6 +6,8 @@
   "cHeroId": "Amazon",
   "cUnitId": "HeroAmazon",
   "name": "Cassia",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "cassia.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

@@ -6,6 +6,8 @@
   "cHeroId": "Ana",
   "cUnitId": "HeroAna",
   "name": "Ana",
+  "universe": "Overwatch",
+  "difficulty": "Hard",
   "icon": "ana.png",
   "role": "Support",
   "expandedRole": "Healer",

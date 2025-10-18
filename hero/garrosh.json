@@ -6,6 +6,8 @@
   "cHeroId": "Garrosh",
   "cUnitId": "HeroGarrosh",
   "name": "Garrosh",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "garrosh.png",
   "role": "Warrior",
   "expandedRole": "Tank",

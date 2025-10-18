@@ -6,6 +6,8 @@
   "cHeroId": "Tassadar",
   "cUnitId": "HeroTassadar",
   "name": "Tassadar",
+  "universe": "StarCraft",
+  "difficulty": "Hard",
   "icon": "tassadar.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

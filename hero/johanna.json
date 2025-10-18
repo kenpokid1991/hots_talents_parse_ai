@@ -6,6 +6,8 @@
   "cHeroId": "Crusader",
   "cUnitId": "HeroCrusader",
   "name": "Johanna",
+  "universe": "Diablo",
+  "difficulty": "Easy",
   "icon": "johanna.png",
   "role": "Warrior",
   "expandedRole": "Tank",

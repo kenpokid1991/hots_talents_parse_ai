@@ -6,6 +6,8 @@
   "cHeroId": "Arthas",
   "cUnitId": "HeroArthas",
   "name": "Arthas",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "arthas.png",
   "role": "Warrior",
   "expandedRole": "Tank",

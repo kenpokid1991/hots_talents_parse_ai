@@ -6,6 +6,8 @@
   "cHeroId": "DVa",
   "cUnitId": "HeroDVaMech",
   "name": "D.Va",
+  "universe": "Overwatch",
+  "difficulty": "Medium",
   "icon": "dva.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

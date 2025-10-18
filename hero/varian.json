@@ -6,6 +6,8 @@
   "cHeroId": "Varian",
   "cUnitId": "HeroVarian",
   "name": "Varian",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "varian.png",
   "role": "Multiclass",
   "expandedRole": "Bruiser",

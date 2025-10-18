@@ -6,6 +6,8 @@
   "cHeroId": "Alarak",
   "cUnitId": "HeroAlarak",
   "name": "Alarak",
+  "universe": "StarCraft",
+  "difficulty": "Hard",
   "icon": "alarak.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

@@ -6,6 +6,8 @@
   "cHeroId": "Deckard",
   "cUnitId": "HeroDeckard",
   "name": "Deckard",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "deckard.png",
   "role": "Support",
   "expandedRole": "Healer",

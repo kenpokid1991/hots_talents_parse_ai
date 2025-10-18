@@ -6,6 +6,8 @@
   "cHeroId": "Valeera",
   "cUnitId": "HeroValeera",
   "name": "Valeera",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "valeera.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

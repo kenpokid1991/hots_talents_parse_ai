@@ -6,6 +6,8 @@
   "cHeroId": "Anubarak",
   "cUnitId": "HeroAnubarak",
   "name": "Anub'arak",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "anubarak.png",
   "role": "Warrior",
   "expandedRole": "Tank",

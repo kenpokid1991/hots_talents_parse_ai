@@ -6,6 +6,8 @@
   "cHeroId": "NexusHunter",
   "cUnitId": "HeroNexusHunter",
   "name": "Qhira",
+  "universe": "Nexus",
+  "difficulty": "Medium",
   "icon": "qhira.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

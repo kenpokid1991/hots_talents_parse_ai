@@ -6,6 +6,8 @@
   "cHeroId": "Chromie",
   "cUnitId": "HeroChromie",
   "name": "Chromie",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "chromie.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

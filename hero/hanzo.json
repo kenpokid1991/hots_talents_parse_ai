@@ -6,6 +6,8 @@
   "cHeroId": "Hanzo",
   "cUnitId": "HeroHanzo",
   "name": "Hanzo",
+  "universe": "Overwatch",
+  "difficulty": "Hard",
   "icon": "hanzo.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

@@ -6,6 +6,8 @@
   "cHeroId": "Raynor",
   "cUnitId": "HeroRaynor",
   "name": "Raynor",
+  "universe": "StarCraft",
+  "difficulty": "Easy",
   "icon": "raynor.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

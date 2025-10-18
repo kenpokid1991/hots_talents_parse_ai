@@ -6,6 +6,8 @@
   "cHeroId": "Stukov",
   "cUnitId": "HeroStukov",
   "name": "Stukov",
+  "universe": "StarCraft",
+  "difficulty": "Medium",
   "icon": "stukov.png",
   "role": "Support",
   "expandedRole": "Healer",

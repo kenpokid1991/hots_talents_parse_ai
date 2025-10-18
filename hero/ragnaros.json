@@ -6,6 +6,8 @@
   "cHeroId": "Ragnaros",
   "cUnitId": "HeroRagnaros",
   "name": "Ragnaros",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "ragnaros.png",
   "role": "Assassin",
   "expandedRole": "Bruiser",

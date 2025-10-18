@@ -6,6 +6,8 @@
   "cHeroId": "L90ETC",
   "cUnitId": "HeroL90ETC",
   "name": "E.T.C.",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "etc.png",
   "role": "Warrior",
   "expandedRole": "Tank",

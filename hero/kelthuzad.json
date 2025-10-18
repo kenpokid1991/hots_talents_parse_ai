@@ -6,6 +6,8 @@
   "cHeroId": "KelThuzad",
   "cUnitId": "HeroKelThuzad",
   "name": "Kel'Thuzad",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "kelthuzad.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

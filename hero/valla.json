@@ -6,6 +6,8 @@
   "cHeroId": "DemonHunter",
   "cUnitId": "HeroDemonHunter",
   "name": "Valla",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "valla.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

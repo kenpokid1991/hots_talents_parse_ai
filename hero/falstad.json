@@ -6,6 +6,8 @@
   "cHeroId": "Falstad",
   "cUnitId": "HeroFalstad",
   "name": "Falstad",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "falstad.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

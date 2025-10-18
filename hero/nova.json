@@ -6,6 +6,8 @@
   "cHeroId": "Nova",
   "cUnitId": "HeroNova",
   "name": "Nova",
+  "universe": "StarCraft",
+  "difficulty": "Hard",
   "icon": "nova.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

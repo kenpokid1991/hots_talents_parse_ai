@@ -6,6 +6,8 @@
   "cHeroId": "Rehgar",
   "cUnitId": "HeroRehgar",
   "name": "Rehgar",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "rehgar.png",
   "role": "Support",
   "expandedRole": "Healer",

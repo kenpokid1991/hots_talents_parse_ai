@@ -6,6 +6,8 @@
   "cHeroId": "Guldan",
   "cUnitId": "HeroGuldan",
   "name": "Gul'dan",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "guldan.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

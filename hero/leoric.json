@@ -6,6 +6,8 @@
   "cHeroId": "Leoric",
   "cUnitId": "HeroLeoric",
   "name": "Leoric",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "leoric.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

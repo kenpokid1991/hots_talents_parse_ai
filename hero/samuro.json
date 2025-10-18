@@ -6,6 +6,8 @@
   "cHeroId": "Samuro",
   "cUnitId": "HeroSamuro",
   "name": "Samuro",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "samuro.png",
   "role": "Assassin",
   "expandedRole": "Melee Assassin",

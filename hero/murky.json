@@ -6,6 +6,8 @@
   "cHeroId": "Murky",
   "cUnitId": "HeroMurky",
   "name": "Murky",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "murky.png",
   "role": "Specialist",
   "expandedRole": "Melee Assassin",

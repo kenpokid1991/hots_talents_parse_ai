@@ -6,6 +6,8 @@
   "cHeroId": "Mephisto",
   "cUnitId": "HeroMephisto",
   "name": "Mephisto",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "mephisto.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

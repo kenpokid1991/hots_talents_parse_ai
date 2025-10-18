@@ -6,6 +6,8 @@
   "cHeroId": "Whitemane",
   "cUnitId": "HeroWhitemane",
   "name": "Whitemane",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "whitemane.png",
   "role": "Support",
   "expandedRole": "Healer",

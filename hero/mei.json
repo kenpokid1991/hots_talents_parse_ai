@@ -6,6 +6,8 @@
   "cHeroId": "MeiOW",
   "cUnitId": "HeroMeiOW",
   "name": "Mei",
+  "universe": "Overwatch",
+  "difficulty": "Medium",
   "icon": "mei.png",
   "role": "Warrior",
   "expandedRole": "Tank",

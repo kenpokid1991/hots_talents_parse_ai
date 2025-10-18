@@ -6,6 +6,8 @@
   "cHeroId": "Firebat",
   "cUnitId": "HeroFirebat",
   "name": "Blaze",
+  "universe": "StarCraft",
+  "difficulty": "Medium",
   "icon": "blaze.png",
   "role": "Warrior",
   "expandedRole": "Tank",

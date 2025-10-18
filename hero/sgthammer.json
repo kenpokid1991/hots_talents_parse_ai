@@ -6,6 +6,8 @@
   "cHeroId": "SgtHammer",
   "cUnitId": "HeroSgtHammer",
   "name": "Sgt. Hammer",
+  "universe": "StarCraft",
+  "difficulty": "Medium",
   "icon": "sgthammer.png",
   "role": "Specialist",
   "expandedRole": "Ranged Assassin",

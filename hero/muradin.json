@@ -6,6 +6,8 @@
   "cHeroId": "Muradin",
   "cUnitId": "HeroMuradin",
   "name": "Muradin",
+  "universe": "Warcraft",
+  "difficulty": "Easy",
   "icon": "muradin.png",
   "role": "Warrior",
   "expandedRole": "Tank",

@@ -6,6 +6,8 @@
   "cHeroId": "Gall",
   "cUnitId": "HeroGall",
   "name": "Gall",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "gall.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

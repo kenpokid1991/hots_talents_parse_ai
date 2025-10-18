@@ -6,6 +6,8 @@
   "cHeroId": "Rexxar",
   "cUnitId": "HeroRexxar",
   "name": "Rexxar",
+  "universe": "Warcraft",
+  "difficulty": "Hard",
   "icon": "rexxar.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

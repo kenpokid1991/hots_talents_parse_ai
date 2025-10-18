@@ -6,6 +6,8 @@
   "cHeroId": "Junkrat",
   "cUnitId": "HeroJunkrat",
   "name": "Junkrat",
+  "universe": "Overwatch",
+  "difficulty": "Medium",
   "icon": "junkrat.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

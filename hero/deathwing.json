@@ -6,6 +6,8 @@
   "cHeroId": "Deathwing",
   "cUnitId": "HeroDeathwing",
   "name": "Deathwing",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "deathwing.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

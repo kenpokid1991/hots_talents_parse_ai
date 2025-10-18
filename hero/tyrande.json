@@ -6,6 +6,8 @@
   "cHeroId": "Tyrande",
   "cUnitId": "HeroTyrande",
   "name": "Tyrande",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "tyrande.png",
   "role": "Support",
   "expandedRole": "Healer",

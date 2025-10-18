@@ -6,6 +6,8 @@
   "cHeroId": "Dehaka",
   "cUnitId": "HeroDehaka",
   "name": "Dehaka",
+  "universe": "StarCraft",
+  "difficulty": "Hard",
   "icon": "dehaka.png",
   "role": "Warrior",
   "expandedRole": "Bruiser",

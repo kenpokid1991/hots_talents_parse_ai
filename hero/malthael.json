@@ -6,6 +6,8 @@
   "cHeroId": "Malthael",
   "cUnitId": "HeroMalthael",
   "name": "Malthael",
+  "universe": "Diablo",
+  "difficulty": "Hard",
   "icon": "malthael.png",
   "role": "Assassin",
   "expandedRole": "Bruiser",

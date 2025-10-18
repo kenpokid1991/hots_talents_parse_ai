@@ -6,6 +6,8 @@
   "cHeroId": "LiLi",
   "cUnitId": "HeroLiLi",
   "name": "Li Li",
+  "universe": "Warcraft",
+  "difficulty": "Easy",
   "icon": "lili.png",
   "role": "Support",
   "expandedRole": "Healer",

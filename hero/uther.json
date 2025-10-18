@@ -6,6 +6,8 @@
   "cHeroId": "Uther",
   "cUnitId": "HeroUther",
   "name": "Uther",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "uther.png",
   "role": "Support",
   "expandedRole": "Healer",

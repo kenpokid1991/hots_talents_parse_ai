@@ -6,6 +6,8 @@
   "cHeroId": "Fenix",
   "cUnitId": "HeroFenix",
   "name": "Fenix",
+  "universe": "StarCraft",
+  "difficulty": "Medium",
   "icon": "fenix.png",
   "role": "Assassin",
   "expandedRole": "Ranged Assassin",

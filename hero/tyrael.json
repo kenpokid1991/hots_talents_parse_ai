@@ -6,6 +6,8 @@
   "cHeroId": "Tyrael",
   "cUnitId": "HeroTyrael",
   "name": "Tyrael",
+  "universe": "Diablo",
+  "difficulty": "Hard",
   "icon": "tyrael.png",
   "role": "Warrior",
   "expandedRole": "Tank",

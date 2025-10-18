@@ -6,6 +6,8 @@
   "cHeroId": "FaerieDragon",
   "cUnitId": "HeroFaerieDragon",
   "name": "Brightwing",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "brightwing.png",
   "role": "Support",
   "expandedRole": "Healer",

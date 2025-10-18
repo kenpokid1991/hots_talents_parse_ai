@@ -6,6 +6,8 @@
   "cHeroId": "MalGanis",
   "cUnitId": "HeroMalGanis",
   "name": "Mal'Ganis",
+  "universe": "Warcraft",
+  "difficulty": "Medium",
   "icon": "malganis.png",
   "role": "Warrior",
   "expandedRole": "Tank",

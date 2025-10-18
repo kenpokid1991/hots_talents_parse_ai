@@ -6,6 +6,8 @@
   "cHeroId": "Medivh",
   "cUnitId": "HeroMedivh",
   "name": "Medivh",
+  "universe": "Warcraft",
+  "difficulty": "Very Hard",
   "icon": "medivh.png",
   "role": "Specialist",
   "expandedRole": "Support",

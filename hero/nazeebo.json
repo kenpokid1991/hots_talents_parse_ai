@@ -6,6 +6,8 @@
   "cHeroId": "WitchDoctor",
   "cUnitId": "HeroWitchDoctor",
   "name": "Nazeebo",
+  "universe": "Diablo",
+  "difficulty": "Medium",
   "icon": "nazeebo.png",
   "role": "Specialist",
   "expandedRole": "Ranged Assassin",
