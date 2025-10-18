@@ -1,6 +1,6 @@
 {
   "name": "heroes-talents",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Talent and ability descriptions for heroes in Heroes of the Storm in handy JSON format",
   "main": "dist/index.js",
   "scripts": {
